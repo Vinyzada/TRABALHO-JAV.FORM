@@ -57,4 +57,5 @@ function limpar_valores(){
     document.getElementById("valorB").value = "";
     document.getElementById("valor").value = "";
     document.getElementById("classificacao").value = "";
+    document.getElementById("classificacao").style.backgroundColor = "rgba(168, 168, 168, 0.466)"
 }
